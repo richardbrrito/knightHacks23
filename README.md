@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-LangChain-black?style=for-the-badge&logoColor=white&logo=langchain&color=000000" alt="LangChain" />
 </div>
 
-<h1 align="center">LegalFLow AI</h1>
+<h1 align="center">LegalFlow AI</h1>
 
 ## 📋 Table of Contents
 
