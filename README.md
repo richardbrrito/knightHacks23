@@ -58,7 +58,7 @@ Update api_key.py and doc_intel.py with your OpenAI, Azure AI, and Google Cloud 
 
 4. **Launch the Application**
 
-    
+    ```
     streamlit run app.py
 
 <a name="usage">💡 Usage</a>
@@ -71,4 +71,4 @@ Contributions are welcome! Fork the repo and submit a pull request with your imp
 This project is open-source and available under the MIT License.
 
 
-This styled README provides a visually appealing overview of the project, its features, and how to get started with it.
+t.
