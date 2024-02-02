@@ -14,8 +14,6 @@
 - 🔋 [Features](#features)
 - 🤸 [Setup and Installation](#setup-and-installation)
 - 💡 [Usage](#usage)
-- 👥 [Contributions](#contributions)
-- 📄 [License](#license)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -64,11 +62,6 @@ Update api_key.py and doc_intel.py with your OpenAI, Azure AI, and Google Cloud 
 <a name="usage">💡 Usage</a>
 Navigate to the application URL, upload a document for analysis, interact with the virtual assistant, and receive document classification and relevant information.
 
-<a name="contributions">👥 Contributions</a>
-Contributions are welcome! Fork the repo and submit a pull request with your improvements.
-
-<a name="license">📄 License</a>
-This project is open-source and available under the MIT License.
 
 
-t.
+
