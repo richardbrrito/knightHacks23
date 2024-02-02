@@ -43,5 +43,32 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository**
    
-   ```bash
+   ```
    git clone https://github.com/yourusername/knightHacks23.git
+2. **Install Dependencies**
+
+    ```
+    Copy code
+    npm install
+
+
+3. **Configure API Keys**
+
+Update api_key.py and doc_intel.py with your OpenAI, Azure AI, and Google Cloud credentials.
+
+4. **Launch the Application**
+
+    
+    streamlit run app.py
+
+<a name="usage">💡 Usage</a>
+Navigate to the application URL, upload a document for analysis, interact with the virtual assistant, and receive document classification and relevant information.
+
+<a name="contributions">👥 Contributions</a>
+Contributions are welcome! Fork the repo and submit a pull request with your improvements.
+
+<a name="license">📄 License</a>
+This project is open-source and available under the MIT License.
+
+
+This styled README provides a visually appealing overview of the project, its features, and how to get started with it.
