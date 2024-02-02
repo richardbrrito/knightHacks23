@@ -1,3 +1,1 @@
-# knightHacks23
-
-# MAVERICK
+LEGAL FLOW AI
